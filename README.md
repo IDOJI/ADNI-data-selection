@@ -1,5 +1,9 @@
 # ADNI Data Selection Guide
 
+## 🌐 Website
+
+[**Open the ADNI Data Selection Guide →**](https://idoji.github.io/ADNI-data-selection/)
+
 ADNI의 임상 방문 이력, MRI 후보 스캔, QC 정보, T1/rs-fMRI 페어링 및 전처리 절차를 연구실 구성원과 공유하기 위한 정적 웹사이트입니다.
 
 ## Website structure
@@ -33,6 +37,10 @@ GitHub 저장소에서 다음 순서로 활성화합니다.
 4. Source를 `Deploy from a branch`로 선택
 5. Branch를 `main`, folder를 `/ (root)`로 선택
 6. `Save`
+
+배포 주소:
+
+[https://idoji.github.io/ADNI-data-selection/](https://idoji.github.io/ADNI-data-selection/)
 
 ## Security
 
